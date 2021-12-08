@@ -1,5 +1,5 @@
 ###### Lab 1: InheritanceTest 
-Write a program called InheritanceTest1.java to support an inheritance hierarchy for 
+Write a program called InheritanceTest.java to support an inheritance hierarchy for 
 class Point–Square–Cube. Use Point as the superclass of the hierarchy. Specify the instance 
 variables and methods for each class. The private data of Point should be the x-y coordinates, the 
 private data of Square should be the sideLength, and the private data of Cube should be depth. 
