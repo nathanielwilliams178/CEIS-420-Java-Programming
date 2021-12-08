@@ -5,7 +5,8 @@ Create a program called Date.java with all kinds of overloaded constructors. In 
 set() mutator method to perform error-checking on the properties month, day, and year. Also, 
 provide a method increaseByOneDay() to increment the day by one.
 Write a program called DateTest.java and have the increaseByOneDay() method tested in a loop 
-of at least 100 iterations . 
-Test the following cases:
+of at least 100 iterations. 
+###### Test the following cases:
 a.   Incrementing into the next month
+
 b.   Incrementing into the next year
